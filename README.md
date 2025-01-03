@@ -20,4 +20,4 @@
 <img align="center" alt=Microsoft Azure" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 </div>
-
+![Snake animation](https://github.com/PabloXI/PabloXI/blob/output/github-contribution-grid-snake.svg)
