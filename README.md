@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Pablo Henrique ✌️😁
 
+📊 GitHub Stats:
  <div>
    <a href="https://github.com/PabloXI">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloXI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
