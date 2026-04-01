@@ -41,11 +41,6 @@ Atualmente focado em evolução para Cloud, trabalhando com automação de infra
 ## 📂 Projetos
 
 🚧 Em desenvolvimento...
-
-- 🔹 Infraestrutura na Azure com Terraform  
-- 🔹 Deploy de aplicação com Docker  
-- 🔹 Monitoramento com Grafana e Zabbix  
-
 ---
 
 ## 📈 Estatísticas
