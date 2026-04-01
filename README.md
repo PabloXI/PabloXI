@@ -1,60 +1,68 @@
 # 👨‍💻 Pablo Henrique
 
-☁️ Cloud & Infrastructure | Azure | Suporte & Infraestrutura de T.I
+<p align="center">
+  ☁️ Cloud & Infrastructure | Azure | Terraform | Linux
+</p>
 
 ---
 
-## 🚀 Cloud & Infra Stack
+## 🚀 Cloud & Infra
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,linux,grafana,python,git&perline=7" />
+</p>
+
+<p align="center">
+📊 Monitoramento: Grafana + Zabbix
+</p>
 
 ---
 
-## 🧠 Infraestrutura & Suporte
+## 🧠 Sobre mim
+
+Profissional com experiência em suporte e infraestrutura de T.I, atuando com:
+
+- Administração de ambientes Windows e Linux  
+- Active Directory, DNS, DHCP e redes  
+- Suporte técnico (local e remoto)  
+- Atendimento ao usuário e resolução de incidentes  
+
+Atualmente focado em evolução para Cloud, trabalhando com automação de infraestrutura e boas práticas.
+
+---
+
+## ⚙️ Infraestrutura & Experiência
 
 - 🖥️ Windows Server  
 - 🔐 Active Directory (GPO, DNS, DHCP)  
 - 🌐 Redes, VPN e conectividade  
-- 💻 Suporte técnico (local e remoto)  
-- ☎️ Atendimento ao usuário (chat, telefone e presencial)  
-- 🧩 Diagnóstico de hardware e software  
-
----
-
-## ⚙️ Ferramentas & Ambiente
-
-- 🔧 VDI / Remote Desktop  
+- 💻 Suporte técnico corporativo  
+- 🔧 Diagnóstico de hardware e software  
 - ☁️ Microsoft Azure  
-- 📡 Monitoramento com Zabbix e Grafana  
-- 🐧 Administração Linux  
-- 🔄 Versionamento com Git  
 
 ---
 
 ## 📂 Projetos
 
-🚧 Em construção...
+🚧 Em desenvolvimento...
 
 - 🔹 Infraestrutura na Azure com Terraform  
-- 🔹 Deploy de aplicações com Docker  
+- 🔹 Deploy de aplicação com Docker  
 - 🔹 Monitoramento com Grafana e Zabbix  
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PabloXI&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Contato
 
-- 📧 pablohenriquejr20@gmail.com
-- 💼 www.linkedin.com/in/pablo-henrique-xl10
+- 📧 seuemail@email.com  
+- 💼 https://linkedin.com/in/seu-link  
 
 ---
