@@ -55,7 +55,7 @@ Atualmente focado em evolução para Cloud, trabalhando com automação de infra
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloXI&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=PabloXI&theme=tokyonight&hide_border=true" />
 </p>
 ---
 
