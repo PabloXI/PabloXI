@@ -9,17 +9,11 @@
 ## 🚀 Cloud & Infrastructure
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="50" />
-  <img src="https://cdn.simpleicons.org/terraform/623CE4" width="50" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="50" />
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,linux,python,git,grafana&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="50" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="50" />
-  <img src="https://cdn.simpleicons.org/grafana/F46800" width="50" />
-  <img src="https://cdn.simpleicons.org/zabbix/CC0000" width="50" />
+  <b>Monitoring:</b> Grafana • Zabbix  
 </p>
 
 ---
