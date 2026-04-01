@@ -12,10 +12,6 @@
   <img src="https://skillicons.dev/icons?i=azure,terraform,docker,linux,python,git,grafana&theme=dark" />
 </p>
 
-<p align="center">
-  <b>Monitoring:</b> Grafana • Zabbix  
-</p>
-
 ---
 
 ## 🧠 Sobre mim
