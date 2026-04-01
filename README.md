@@ -61,7 +61,7 @@ Atualmente focado em evolução para Cloud, trabalhando com automação de infra
 
 ## 📫 Contato
 
-- 📧 seuemail@email.com  
-- 💼 https://linkedin.com/in/seu-link  
+- 📧 pablohenriquejr20@gmail.com 
+- 💼 www.linkedin.com/in/pablo-henrique-xl10
 
 ---
