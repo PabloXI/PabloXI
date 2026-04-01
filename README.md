@@ -41,6 +41,7 @@ Atualmente focado em evolução para Cloud, trabalhando com automação de infra
 ## 📂 Projetos
 
 🚧 Em desenvolvimento...
+
 ---
 
 ## 📈 Estatísticas
