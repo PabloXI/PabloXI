@@ -1,35 +1,38 @@
 # 👨‍💻 Pablo Henrique
 
-🎯 Cloud Engineer em formação | Infraestrutura | Azure
+☁️ Cloud & Infrastructure | Azure | Suporte & Infraestrutura de T.I
 
 ---
 
-## ☁️ Sobre mim
+## 🚀 Cloud & Infra Stack
 
-Profissional com experiência em suporte e infraestrutura de T.I, com foco em evolução para Cloud Computing.  
-Atualmente estudando e aplicando na prática conceitos de automação, cloud e monitoramento.
-
----
-
-## 🚀 Minha Jornada em Cloud
-
-![Azure](https://img.shields.io/badge/Azure-AZ--900%20Completed-0078D4?style=for-the-badge&logo=microsoftazure)
-![Terraform](https://img.shields.io/badge/Terraform-In%20Progress-623CE4?style=for-the-badge&logo=terraform)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker)
-![Grafana](https://img.shields.io/badge/Grafana-Learning-F46800?style=for-the-badge&logo=grafana)
-![Zabbix](https://img.shields.io/badge/Zabbix-Learning-CC0000?style=for-the-badge&logo=zabbix)
-![Linux](https://img.shields.io/badge/Linux-Experience-FCC624?style=for-the-badge&logo=linux)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge)
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
+## 🧠 Infraestrutura & Suporte
 
-- ☁️ Cloud: Azure  
-- ⚙️ Infraestrutura: Terraform  
-- 🐧 Sistemas: Linux  
-- 🐳 Containers: Docker (em aprendizado)  
-- 📊 Monitoramento: Zabbix | Grafana  
-- 🔧 Versionamento: Git  
+- 🖥️ Windows Server  
+- 🔐 Active Directory (GPO, DNS, DHCP)  
+- 🌐 Redes, VPN e conectividade  
+- 💻 Suporte técnico (local e remoto)  
+- ☎️ Atendimento ao usuário (chat, telefone e presencial)  
+- 🧩 Diagnóstico de hardware e software  
+
+---
+
+## ⚙️ Ferramentas & Ambiente
+
+- 🔧 VDI / Remote Desktop  
+- ☁️ Microsoft Azure  
+- 📡 Monitoramento com Zabbix e Grafana  
+- 🐧 Administração Linux  
+- 🔄 Versionamento com Git  
 
 ---
 
@@ -37,13 +40,13 @@ Atualmente estudando e aplicando na prática conceitos de automação, cloud e m
 
 🚧 Em construção...
 
-- 🔹 Projeto Cloud com Terraform + Azure  
-- 🔹 Deploy de aplicação com Docker  
+- 🔹 Infraestrutura na Azure com Terraform  
+- 🔹 Deploy de aplicações com Docker  
 - 🔹 Monitoramento com Grafana e Zabbix  
 
 ---
 
-## 📈 Estatísticas
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
 
@@ -51,7 +54,7 @@ Atualmente estudando e aplicando na prática conceitos de automação, cloud e m
 
 ## 📫 Contato
 
-- 📧 Email: seuemail@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/seu-link  
+- 📧 pablohenriquejr20@gmail.com
+- 💼 www.linkedin.com/in/pablo-henrique-xl10
 
 ---
