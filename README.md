@@ -22,10 +22,6 @@
   <img src="https://cdn.simpleicons.org/zabbix/CC0000" width="50" />
 </p>
 
-<p align="center">
-📊 Monitoramento: Grafana + Zabbix
-</p>
-
 ---
 
 ## 🧠 Sobre mim
